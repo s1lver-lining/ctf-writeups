@@ -4,7 +4,7 @@
 
 | Global scoreboard | Student scoreboard |
 | ----------------- | ------------------ |
-| ![Global scoreboard](_img/global_sb.png) | ![Student scoreboard](_img/student_sb.png) |
+| [![Global scoreboard](./_img/global_sb.png)](./_img/global_sb.png) | [![Student scoreboard](./_img/student_sb.png)](./_img/student_sb.png) |
 
 ## Challenges
 
