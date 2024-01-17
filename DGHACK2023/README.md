@@ -1,4 +1,4 @@
-[DG'hAck 2023](dghack.fr) is a CTF event held by the DGA (branch of the French military). There were 24 challenges this year but I was only able to fully solve 11 of them. Yet I was able to reach **global rank 6** and first on the student's leaderboard under the name **_Curiosité_**.
+[DG'hAck 2023](https://dghack.fr) is a CTF event held by the DGA (branch of the French military). There were 24 challenges this year but I was only able to fully solve 11 of them. Yet I was able to reach **global rank 6** and first on the student's leaderboard under the name **_Curiosité_**.
 
 ## Scoreboard
 
