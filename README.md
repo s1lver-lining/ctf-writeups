@@ -5,6 +5,7 @@ This repository stores writeups I made for different CTF challenges.
 
 | CTF Name | Username | Website | Tags |
 | -------- | -------- | ------- | ---- |
+| [404CTF 2024](./404CTF2023) | Endurance | [ctf.404ctf.fr](https://ctf.404ctf.fr) | `Web` `Crypto` `Reverse` `Forensics` `Pwn` `OSInt` |
 | [DG'hAck 2023](./DGHACK2023) | Curiosité | [dghack.fr](https://dghack.fr) | `Dev` `Web` `Crypto` `Reverse` `Forensics` `Pwn` `Steganography` |
 | [ECW Quals 2023](./ECW2023%20Quals ) | Patience | [challenge-ecw.fr](https://challenge-ecw.fr) | `Web` `Crypto` `Reverse` `Forensics` `Pwn` `Misc` |
 | [404CTF 2023](./404CTF2023) | Persévérance | [ctf.404ctf.fr](https://ctf.404ctf.fr) | `Web` `Crypto` `Reverse` `Forensics` `Pwn` `OSInt` |
