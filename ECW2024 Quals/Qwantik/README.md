@@ -21,7 +21,7 @@ Please choose an action:
 Command:
 ```
 
-We also have a link to [a blogpost about hybridization](https://www.amossys.fr/insights/blog-technique/why-you-should-not-put-all-your-eggs-in-the-same-basket-part-3/). This blogpost explains how to combine two KEM to create a new one, can be broken only if both sub-KEM are broken.  
+We also have a link to [a blogpost about hybridization](https://www.amossys.fr/insights/blog-technique/why-you-should-not-put-all-your-eggs-in-the-same-basket-part-3/). This blogpost explains how to combine two KEM to create a new one, which can be broken only if both sub-KEM are broken.  
 
 This is useful when one of the KEM is using well-tested **classical cryptography** (but vulnerable to quantum computers) and the other one is using **post-quantum cryptography** (which might have a vulnerability).
 
