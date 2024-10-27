@@ -7,3 +7,7 @@ For this CTF, my name was **_Sérénité_** and I reached the **1st** place in b
 | Global scoreboard | Student scoreboard |
 | ----------------- | ------------------ |
 | [![Global scoreboard](./_img/global_sb.png)](./_img/global_sb.png) | [![Student scoreboard](./_img/student_sb.png)](./_img/student_sb.png) |
+
+## Solves
+
+![Solves](./_img/solves.png)
